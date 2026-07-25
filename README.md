@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**d-moral/d-moral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at FIUBA  
+📍 Buenos Aires, Argentina  
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+Python · JavaScript · C
+
+**Web**
+HTML · CSS · Node.js · Express
+
+**Database & Tools**
+PostgreSQL · Docker · Git
+
+### Projects
+
+🧟‍♂️ [ZombieSpread](https://github.com/d-moral/zombie-spread)
