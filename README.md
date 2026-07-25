@@ -8,6 +8,8 @@ I like digging into how systems work and building things from scratch.
 **[ZombieSpread](https://github.com/d-moral/zombie-spread)**<br>
 Team project for FIUBA's Intro to Software Development course. A web-based strategy game built with Node.js, Express, PostgreSQL and Docker.
 
+[Live demo](https://tp-software.onrender.com) *(may take ~30s to wake up on first load)*
+
 ---
 
 Feel free to reach out at dmorales@fi.uba.ar
